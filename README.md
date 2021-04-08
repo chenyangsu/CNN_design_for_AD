@@ -1,3 +1,8 @@
+# ECSE 552 Final Project
+This is the GitHub repo for the PROJECT 8 team in ECSE 552 Winter 2021.
+
+
+
 # On the design of convolutional neural networks for automatic detection of Alzheimer’s disease
 
 
