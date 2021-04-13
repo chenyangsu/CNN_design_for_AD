@@ -42,7 +42,7 @@ This repository is licensed under the terms of the GNU AGPLv3 license.
 
 ## Data Preprocessing
 Data Preprocessing with Clinica:
-1. **Convert data into BIDS format**: please read the docs on [Clinica website](http://www.clinica.run/doc/DatabasesToBIDS/#adni-to-bids), and install required softwares and download the required clinical files. Note that we first preprocess the training set to generate the template and use the template to preprocess validation and test set. You can find the [link](https://drive.google.com/file/d/1KurgyjQP-KReEO0gf31xxjwE5R-xuSRB/view?usp=sharing) to download the template we used for data preprocessing. You can find the script we use to run the converter at /datasets/files:
+1. **Convert data into BIDS format**: please read the docs on [Clinica website](https://aramislab.paris.inria.fr/clinica/docs/public/latest/Converters/ADNI2BIDS/), and install required softwares and download the required clinical files. Note that we first preprocess the training set to generate the template and use the template to preprocess validation and test set. You can find the [link](https://drive.google.com/file/d/1KurgyjQP-KReEO0gf31xxjwE5R-xuSRB/view?usp=sharing) to download the template we used for data preprocessing. You can find the script we use to run the converter at /datasets/files:
 ```
 run_convert.sh
 ```
